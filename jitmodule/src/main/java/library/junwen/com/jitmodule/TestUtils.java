@@ -10,7 +10,7 @@ import android.util.Log;
  */
 public class TestUtils {
 
-    public void print() {
+    public static void print() {
         Log.e("TestUtils", "test");
     }
 
